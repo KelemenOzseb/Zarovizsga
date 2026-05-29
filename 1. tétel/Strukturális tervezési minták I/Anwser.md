@@ -47,13 +47,15 @@ formájában.
 ### BRIDGE
 ![alt text](bridge3.png)
 ![alt text](bridge1.png)
+---
 ![alt text](bridge2.png)
 
 ## 3. kérdés: Mutassa be a Composite és Decorator tervezési mintákat!
-### Composite
+### COMPOSITE
 ![alt text](composite1.png)
 ![alt text](composite2.png)
+---
 ![alt text](composite3.png)
-### Decorator
+### DECORATOR
 ![alt text](decorator1.png)
 ![alt text](decorator2.png)
