@@ -30,7 +30,7 @@ Fő céljaik:
 - Fejlesztési idő csökkentése
     Bevált megoldások használatával gyorsabb a fejlesztés.
 ```
-## 3. kérdés: Mutassa be az Adapter és Bridge tervezési mintákat!
+## 2. kérdés: Mutassa be az Adapter és Bridge tervezési mintákat!
 ### ADAPTER
 ![alt text](adapter2.png)
 ![alt text](adapter1.png)
@@ -49,7 +49,7 @@ formájában.
 ![alt text](bridge1.png)
 ![alt text](bridge2.png)
 
-## 2. kérdés: Mutassa be a Composite és Decorator tervezési mintákat!
+## 3. kérdés: Mutassa be a Composite és Decorator tervezési mintákat!
 ### Composite
 ![alt text](composite1.png)
 ![alt text](composite2.png)
