@@ -30,7 +30,7 @@ Fő céljaik:
 - Fejlesztési idő csökkentése
     Bevált megoldások használatával gyorsabb a fejlesztés.
 ```
-## 2. kérdés: Mutassa be az Adapter és Bridge tervezési mintákat!
+## 3. kérdés: Mutassa be az Adapter és Bridge tervezési mintákat!
 ### ADAPTER
 ![alt text](adapter2.png)
 ![alt text](adapter1.png)
