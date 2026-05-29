@@ -51,11 +51,13 @@ Fő céljaik:
 
 ![alt text](flyweightIII-1.png)
 ![alt text](flyweightIII-2.png)
+---
 ![alt text](flyweightIII-3.png)
 
 ## 3. kérdés: Mutassa be a Proxy tervezési mintát!
 
 ![alt text](proxy1.png)
 ![alt text](proxy2.png)
+---
 ![alt text](proxy3.png)
 ![alt text](proxy4.png)
