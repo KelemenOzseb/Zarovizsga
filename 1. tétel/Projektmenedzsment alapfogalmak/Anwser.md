@@ -11,6 +11,7 @@
 ---
 ---
 ![alt text](projektmenedzsment.png)
+![alt text](projektmenedzsment2.png)
 ---
 ## 2. kérdés: Mutassa be a RAID logot!
 ![alt text](RAID.png)
